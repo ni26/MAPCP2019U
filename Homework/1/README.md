@@ -34,3 +34,5 @@ I have not failed. I’ve just found 10,000 ways that won’t work.
 Thomas A. Edison
 
 # End of the README file’s content
+
+E) No. The test.txt doesn't exist in branch 2. We only made the changes to branch 1. So, I think that is why.
