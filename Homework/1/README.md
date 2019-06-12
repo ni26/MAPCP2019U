@@ -36,3 +36,10 @@ Thomas A. Edison
 # End of the README file’s content
 
 E) No. The test.txt doesn't exist in branch 2. We only made the changes to branch 1. So, I think that is why.
+
+G) The error was $ git checkout test1
+error: The following untracked working tree files would be overwritten by checkout:
+        Homework/1/test.txt
+Please move or remove them before you switch branches.
+Aborting
+And it was fixed after pushing the changes to test2 branch.
