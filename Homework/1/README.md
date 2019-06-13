@@ -74,3 +74,7 @@ So, looks like branch test1 is indeed deleted.
 $ git branch -d test2
 error: Cannot delete branch 'test2' checked out at 'C:/Users/Ni/Desktop/Git/MAPCP2019U'
 
+(S) After deleting branch test2, and doing git branch, this is what I get:
+$ git branch
+* master
+
