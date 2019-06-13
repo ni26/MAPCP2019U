@@ -52,3 +52,5 @@ Automatic merge failed; fix conflicts and then commit the result.
 The reason it happens is that we have test.txt in both branches; both test1 and test2. So this makes git confused.
 
 (K) I do not get any errors when checking out test2. I don't know why!
+
+(L) When doing git stauts, it says everything is clear. It doesn't show any errors.
