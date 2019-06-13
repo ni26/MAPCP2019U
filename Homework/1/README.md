@@ -42,4 +42,6 @@ error: The following untracked working tree files would be overwritten by checko
         Homework/1/test.txt
 Please move or remove them before you switch branches.
 Aborting
-And it was fixed after pushing the changes to test2 branch.
+And it was fixed after pushing the changes to test2 branchi.
+
+(I) My current working directory is master/Homework/1/, and what I see is the README.md file and the test.tx file. The test.tx file is the one that says "creating this file for the test1 branch".
