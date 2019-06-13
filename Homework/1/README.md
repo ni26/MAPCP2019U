@@ -45,3 +45,8 @@ Aborting
 And it was fixed after pushing the changes to test2 branchi.
 
 (I) My current working directory is master/Homework/1/, and what I see is the README.md file and the test.tx file. The test.tx file is the one that says "creating this file for the test1 branch".
+
+(J) The error is CONFLICT (add/add): Merge conflict in Homework/1/test.txt
+Auto-merging Homework/1/test.txt
+Automatic merge failed; fix conflicts and then commit the result.
+The reason it happens is that we have test.txt in both branches; both test1 and test2. So this makes git confused.
