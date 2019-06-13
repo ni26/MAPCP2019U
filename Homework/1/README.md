@@ -67,3 +67,5 @@ In addition, when I do git branch, this is the message I get:
 * master
   test2
 So, looks like branch test1 is indeed deleted.
+
+(Q) I think it is becasue when we are on branch test2 and try to delete branch test1, these two are not the same (i.e. not merged). But, when we are in branch master, and we try to dlete branch test1 from there, it easily does it because these two are merged and master is already updated by test1.
