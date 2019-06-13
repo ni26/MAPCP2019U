@@ -50,3 +50,5 @@ And it was fixed after pushing the changes to test2 branchi.
 Auto-merging Homework/1/test.txt
 Automatic merge failed; fix conflicts and then commit the result.
 The reason it happens is that we have test.txt in both branches; both test1 and test2. So this makes git confused.
+
+(K) I do not get any errors when checking out test2. I don't know why!
