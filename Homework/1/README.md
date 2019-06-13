@@ -63,3 +63,7 @@ If you are sure you want to delete it, run 'git branch -D test1'.
 This is the message I got:
 error: The branch 'test1' is not fully merged.
 If you are sure you want to delete it, run 'git branch -D test1'.
+In addition, when I do git branch, this is the message I get:
+* master
+  test2
+So, looks like branch test1 is indeed deleted.
