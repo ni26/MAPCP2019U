@@ -54,3 +54,7 @@ The reason it happens is that we have test.txt in both branches; both test1 and 
 (K) I do not get any errors when checking out test2. I don't know why!
 
 (L) When doing git stauts, it says everything is clear. It doesn't show any errors.
+
+(O) When trying to delete branch test1 while on branch test2, this is the error I get:
+error: The branch 'test1' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D test1'.
