@@ -23,10 +23,10 @@ This repository contains my homework, quizzes, and virtually every effort that I
 * **[Exam](the exam hyperlink should take the reader to the exams folder)
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
-For questions and troubleshooting, please contact:
+For questions and troubleshooting, please contact:  
 
-\<Niyousha Davachi>  
-\<niyousha.davachi@mavs.uta.edu>  
+Niyousha Davachi  
+niyousha.davachi@mavs.uta.edu
 
->I have not failed. I’ve just found 10,000 ways that won’t work.
->[Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison){:target="_blank"}
+>I have not failed. I’ve just found 10,000 ways that won’t work.  
+>[Thomas A. Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
