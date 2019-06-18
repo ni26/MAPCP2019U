@@ -6,11 +6,11 @@
 **UTA EID:** 1001135833  
 **Email:** <niyousha.davachi@mavs.uta.edu>  
 **Department:** [Department of Physics](https://www.uta.edu/physics/)  
-**University:** The University of Texas at Arlington
-**Level:** graduate
-**MAPCP-Class Title:** Student
-**Course Webpage:** https://www.cdslab.org/MAPCP2019U/
-**Photo:** Will add soon. 
+**University:** The University of Texas at Arlington  
+**Level:** graduate  
+**MAPCP-Class Title:** Student  
+**Course Webpage:** [Our Course Page] (https://www.cdslab.org/MAPCP2019U/)  
+**Photo:** Will add soon.  
 
 ### Description of the project’s content
 This repository contains my homework, quizzes, and virtually every effort that I have made for MAPCP2019U class. The structure of the project is the following:
