@@ -2,8 +2,8 @@
 
 #### MAPCP2019U - Introduction to Computer Programming (Summer 2019)    
 
-**Name:** <Niyousha> <Davachi>  
-**UTA EID:** <1001135833>  
+**Name:** Niyousha Davachi  
+**UTA EID:** 1001135833  
 **Email:** <niyousha.davachi@mavs.uta.edu>  
 **Department:** [Department of Physics](https://www.uta.edu/physics/)
 University: The University of Texas at Arlington
