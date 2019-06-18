@@ -33,10 +33,10 @@ niyousha.davachi@mavs.uta.edu
 
 ### Homework 1 Answers
 
-**E)**   
+**(E)**   
 No. The test.txt doesn't exist in branch 2. We only made the changes to branch 1. So, I think that is why.
 
-**G)**   
+**(G)**   
 The error was $ git checkout test1.  
 ```bash
 error: The following untracked working tree files would be overwritten by checkout:
@@ -71,22 +71,30 @@ error: The branch 'test1' is not fully merged.
 If you are sure you want to delete it, run 'git branch -D test1'.
 ```
 
-(P) Whwn I am in branch master, it easily deleted branch test1 from there. 
-This is the message I got:
+**(P)**   
+When I am in branch master, it easily deleted branch test1 from there. This is the message I got:  
+```bash
 error: The branch 'test1' is not fully merged.
 If you are sure you want to delete it, run 'git branch -D test1'.
 In addition, when I do git branch, this is the message I get:
 * master
   test2
+```    
 So, looks like branch test1 is indeed deleted.
 
-(Q) I think it is becasue when we are on branch test2 and try to delete branch test1, these two are not the same (i.e. not merged). But, when we are in branch master, and we try to dlete branch test1 from there, it easily does it because these two are merged and master is already updated by test1.
+**(Q)**  
+I think it is because when we are on branch test2 and try to delete branch test1, these two are not the same (i.e. not merged). But, when we are in branch master, and we try to delete branch test1 from there, it easily does it because these two are merged and master is already updated by test1.
 
-(R) The error I got is the following:
+**(R)**   
+The error I got is the following:  
+```bash 
 $ git branch -d test2
 error: Cannot delete branch 'test2' checked out at 'C:/Users/Ni/Desktop/Git/MAPCP2019U'
+```
 
-(S) After deleting branch test2, and doing git branch, this is what I get:
+**(S)**   
+After deleting branch test2, and doing git branch, this is what I get:  
+```bash
 $ git branch
 * master
-
+```
