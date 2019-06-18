@@ -1,6 +1,4 @@
-## Beginning of the README file’s content   
-
-#### MAPCP2019U - Introduction to Computer Programming (Summer 2019)    
+### MAPCP2019U - Introduction to Computer Programming (Summer 2019)    
 
 **Name:** Niyousha Davachi  
 **UTA EID:** 1001135833  
@@ -9,7 +7,7 @@
 **University:** The University of Texas at Arlington  
 **Level:** graduate  
 **MAPCP-Class Title:** Student  
-**Course Webpage:** [Our Course Page] (https://www.cdslab.org/MAPCP2019U/)  
+**Course Webpage:** [Our Course Page](https://www.cdslab.org/MAPCP2019U/)  
 **Photo:** Will add soon.  
 
 ### Description of the project’s content
