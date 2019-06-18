@@ -1,5 +1,5 @@
 ### MAPCP2019U - Introduction to Computer Programming (Summer 2019)    
-<br>
+
 **Name:** Niyousha Davachi  
 **UTA EID:** 1001135833  
 **Email:** <niyousha.davachi@mavs.uta.edu>  
@@ -11,7 +11,7 @@
 **Photo:** Will add soon.  
 
 ### Description of the project’s content
-<br>
+
 This repository contains my homework, quizzes, and virtually every effort that I have made for [MAPCP2019U class](https://www.cdslab.org/MAPCP2019U/). The structure of the project is the following:
 
 * **[Homework](https://github.com/ni26/MAPCP2019U/tree/master/Homework):**    
