@@ -1,10 +1,10 @@
 ## Beginning of the README file’s content   
 
 #### MAPCP2019U - Introduction to Computer Programming (Summer 2019)    
-<br>
-**Name:** \<Niyousha> \<Davachi>  
+
+**Name:** <Niyousha> <Davachi>  
 **UTA EID:** <1001135833>  
-**Email:** \<niyousha.davachi@mavs.uta.edu>  
+**Email:** <niyousha.davachi@mavs.uta.edu>  
 **Department:** [Department of Physics](https://www.uta.edu/physics/)
 University: The University of Texas at Arlington
 Level: graduate - <Freshman (1st year) / Sophomore (2nd year) / Junior (3rd year) / Senior (4th year) / Dinosaur (5th year and above) >
