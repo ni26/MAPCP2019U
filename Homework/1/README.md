@@ -44,22 +44,32 @@ error: The following untracked working tree files would be overwritten by checko
 Please move or remove them before you switch branches.
 Aborting
 ```
-And it was fixed after pushing the changes to test2 branchi.
+And it was fixed after pushing the changes to test2 branch.
 
-(I) My current working directory is master/Homework/1/, and what I see is the README.md file and the test.tx file. The test.tx file is the one that says "creating this file for the test1 branch".
+**(I)**   
+My current working directory is master/Homework/1/, and what I see is the README.md file and the test.tx file. The test.tx file is the one that says "creating this file for the test1 branch".
 
-(J) The error is CONFLICT (add/add): Merge conflict in Homework/1/test.txt
+**(J)**   
+The error is:  
+```bash 
+CONFLICT (add/add): Merge conflict in Homework/1/test.txt
 Auto-merging Homework/1/test.txt
 Automatic merge failed; fix conflicts and then commit the result.
+```
 The reason it happens is that we have test.txt in both branches; both test1 and test2. So this makes git confused.
 
-(K) I do not get any errors when checking out test2. I don't know why!
+**(K)**  
+ I do not get any errors when checking out test2. I don't know why!
 
-(L) When doing git stauts, it says everything is clear. It doesn't show any errors.
+**(L)**  
+When doing git status, it says everything is clear. It doesn't show any errors.
 
-(O) When trying to delete branch test1 while on branch test2, this is the error I get:
+**(O)**   
+When trying to delete branch test1 while on branch test2, this is the error I get:  
+```bash 
 error: The branch 'test1' is not fully merged.
 If you are sure you want to delete it, run 'git branch -D test1'.
+```
 
 (P) Whwn I am in branch master, it easily deleted branch test1 from there. 
 This is the message I got:
