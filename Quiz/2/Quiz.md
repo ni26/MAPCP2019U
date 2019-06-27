@@ -1,5 +1,5 @@
-# 1  
-Register, cash,  
+#1  
+Register, cash, 
 #2   
 b) row-wise  
 a) column-wise  
