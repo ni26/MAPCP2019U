@@ -8,7 +8,8 @@
 **Level:** graduate  
 **MAPCP-Class Title:** Student  
 **Course Webpage:** [Our Course Page](https://www.cdslab.org/MAPCP2019U/)  
-**Photo:** Will add soon.  
+**Photo:** 
+![Niyousha Davachi](https://cpb-us-e1.wpmucdn.com/blog.uta.edu/dist/8/4702/files/2017/04/dec16f-16hfcnd.jpg)
 
 ### Description of the project’s content
 
