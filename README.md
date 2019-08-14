@@ -13,8 +13,11 @@
 
 ### Description of the project’s content
 
-This repository contains my homework, quizzes, and virtually every effort that I have made for [MAPCP2019U class](https://www.cdslab.org/MAPCP2019U/). The structure of the project is the following:
+This repository contains my homework, quizzes, and virtually every effort that I have made for [MAPCP2019U class](https://www.cdslab.org/MAPCP2019U/). The structure of the project is the following:  
 
+* **[Hardware & Software](https://github.com/ni26/MAPCP2019U/tree/master/Hardware%20%26%20Software):**  
+    I am interested to know how hardware and software "talk". This folder contains some information about this.  
+    <br>  	
 * **[Homework](https://github.com/ni26/MAPCP2019U/tree/master/Homework):**    
     This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.  
     <br>
