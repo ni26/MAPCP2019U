@@ -19,5 +19,7 @@ Here are some useful links:
 http://www.onlinecmag.com/computer-hardware-and-software-interact/  
 https://www.sophia.org/tutorials/the-relationship-between-hardware-and-software  
 https://www.purplezeus.com/hardware-and-software.html    
-https://stackoverflow.com/questions/3043048/how-does-software-code-actually-communicate-with-hardware  
+https://stackoverflow.com/questions/3043048/how-does-software-code-actually-communicate-with-hardware 
+
+#### I'm happy to update this and work more to post it on the website :) 
 
